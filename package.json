@@ -1,0 +1,15 @@
+{
+  "name": "weather-project",
+  "version": "1.0.0",
+  "description": "weather project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abhishek raghav",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2"
+  }
+}
